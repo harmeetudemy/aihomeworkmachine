@@ -2,10 +2,10 @@ import openai
 
 def call_gpt(string):
     # Set the API key
-    openai.api_key = "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"
+    openai.api_key = "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"
 
     # Define the model and prompt
-    model_engine = "text-davinci-002"
+    model_engine = "text-davinci-003"
     prompt = string
     #prompt = "chatGPT script in detail with 500 lines to make Youtube Videos on upcoming financial crisis in 2023 in India"
 
