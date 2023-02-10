@@ -2,7 +2,7 @@ import openai
 
 def call_gpt(string):
     # Set the API key
-    openai.api_key = "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"
+    openai.api_key = "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"
 
     # Define the model and prompt
     model_engine = "text-davinci-002"
